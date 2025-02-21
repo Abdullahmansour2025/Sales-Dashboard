@@ -23,5 +23,10 @@ This project contains an interactive **Sales Dashboard** built using Microsoft E
 - Adding more automation using VBA or Power Query.
 - Integrating external data sources for live updates.
 - Expanding sales analysis with more visual insights.
+- ## Author
+Created by **[Abdullh mansour]**  
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/abdullah-mansour-9607172b9)
+
+
 
 
